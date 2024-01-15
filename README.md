@@ -1,6 +1,6 @@
 # Deep Learning based Drone Image Segmentation
 <p align="center">
-  <img src="https://github.com/akhilchibber/Semantic-Segmentation-Drone-Imagery/blob/main/Semantic-Segmentation.jpeg" alt="earthml Logo">
+  <img src="https://github.com/akhilchibber/Drone-Image-Segmentation/blob/main/Drone-Image-Segmentation.png" alt="earthml Logo">
 </p>
 
 ## Dataset
