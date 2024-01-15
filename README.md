@@ -10,10 +10,10 @@ The dataset used in this project can be found on Kaggle: [Semantic Segmentation 
 To get started with this project:
 
 1. Clone this repository to your local machine.
-2. Ensure you have Jupyter Notebook downloaded.
+2. Ensure you have Jupyter Notebook installed and running.
 3. Install the required dependencies.
 4. Download the "Semantic Segmentation Drone Dataset" and place it in the designated directory.
-5. Open and run the Jupyter Notebook to train and evaluate the model.
+5. Open and run the Jupyter Notebook "Drone-Image-Segmentation.ipynb" to train and evaluate the model.
    
 ## Contributing
 We welcome contributions to enhance the functionality and efficiency of this script. Feel free to fork, modify, and make pull requests to this repository. To contribute:
