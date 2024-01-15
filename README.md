@@ -4,7 +4,7 @@
 </p>
 
 ## Dataset
-The dataset used in this project can be found on Kaggle: [Semantic Segmentation Drone Dataset](https://www.kaggle.com/datasets/santurini/semantic-segmentation-drone-dataset/data). 
+The dataset used in this project can be found on Kaggle: [Semantic Segmentation Drone Dataset](https://www.kaggle.com/datasets/bulentsiyah/semantic-drone-dataset). 
 
 ## Contributing
 We welcome contributions to enhance the functionality and efficiency of this script. Feel free to fork, modify, and make pull requests to this repository. To contribute:
