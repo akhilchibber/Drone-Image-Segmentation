@@ -1,4 +1,4 @@
-# Deep Learning based Semantic Segmentation using Drone Imagery
+# Deep Learning based Drone Image Segmentation
 <p align="center">
   <img src="https://github.com/akhilchibber/Semantic-Segmentation-Drone-Imagery/blob/main/Semantic-Segmentation.jpeg" alt="earthml Logo">
 </p>
